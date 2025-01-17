@@ -19,6 +19,8 @@ S-SDLC and DevSecOps are both focused on embedding security into the development
 </ul>
 
 
+Read project report at <a href='https://github.com/AmarzishQadeer/Secure-SDLC/blob/main/Secure%20System%20SDLC.pdf'>Link</a>
+
 
 
 
